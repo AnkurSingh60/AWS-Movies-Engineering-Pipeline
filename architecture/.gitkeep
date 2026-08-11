@@ -1,1 +1,40 @@
+Movies Dataset
+      │
+      ▼
+Amazon S3 (Raw Zone)
+      │
+      ▼
+Glue Crawler
+      │
+      ▼
+Glue Data Catalog
+      │
+      ▼
+EventBridge Scheduler
+      │
+      ▼
+Glue Workflow
+      │
+      ▼
+Glue ETL Job (PySpark)
+      │
+      ▼
+Amazon S3 (Processed Zone)
+      │
+      ▼
+Amazon Athena
+      │
+      ▼
+Business Analytics
 
+Monitoring:
+Glue Job
+   │
+   ▼
+CloudWatch Logs
+   │
+   ▼
+CloudWatch Alarm
+   │
+   ▼
+SNS Email Notification
