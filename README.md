@@ -6,7 +6,7 @@ End-to-end AWS Data Engineering Pipeline using S3, Glue, EventBridge, Athena,,Po
 
 ## Project Overview
 
-This project demonstrates an end-to-end AWS Data Engineering Pipeline built on AWS services. The pipeline automates movie data ingestion, cataloging, transformation, monitoring, and analytics using AWS Glue, EventBridge, Athena, CloudWatch, and SNS.
+This project demonstrates an end-to-end AWS Data Engineering Pipeline built on AWS services. The pipeline automates movie data ingestion, cataloging, transformation, monitoring, and analytics using AWS Glue, EventBridge, Athena,PowerBI, CloudWatch, and SNS.
 
 ## Architecture
 
